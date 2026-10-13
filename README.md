@@ -86,9 +86,9 @@ Aplikasi memiliki 5 tingkat otorisasi pengguna dengan matriks hak akses sebagai 
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | **Dashboard & Statistik** | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Manajemen Arsip (Input / Edit)** | ✅ | ✅ | ⚠️ *(Review)* | ❌ | ❌ |
-| **Detail & Unduh Berkas PDF** | ✅ | ✅ | ✅ | ❌ | ✅ |
+| **Detail & Unduh Berkas PDF** | ✅ | ✅ | ✅ | 👁️ *(View)* | ✅ |
 | **Master Data (Instansi, Rak, Bindex)** | ✅ | 👁️ *(View)* | ❌ | ❌ | 👁️ *(View)* |
-| **Cetak & Export Laporan** | ✅ | ❌ | ❌ | ✅ | ✅ |
+| **Cetak & Export Laporan** | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Recycle Bin (Pulihkan Data)** | ✅ | ❌ | ❌ | ❌ | ❌ |
 | **Log Aktivitas (Audit Trail)** | ✅ | ❌ | ❌ | ❌ | ✅ |
 | **Manajemen User & Backup** | ✅ | ❌ | ❌ | ❌ | ❌ |
